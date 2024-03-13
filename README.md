@@ -11,8 +11,8 @@
 [>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/bl4ckh4t-g0d)
 
 ### LLM Base
-Base Model: ChatGPT 3.5 Turbo
-Supports: ChatGPT4, LLama 2, Gemini, Mixtral 8x7B, Dolphin 2.6 8x7B
+- Base Model: ChatGPT 3.5 Turbo
+- Supports: ChatGPT4, LLama 2, Gemini, Mixtral 8x7B, Dolphin 2.6 8x7B
 
 ### Credits
 Cyber_Albsecop
