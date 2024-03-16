@@ -3,14 +3,13 @@
 # BL4CKH4T_G0D: Unrestricted Chat GPT Agent for Unconventional Tasks
 
 **Description**:
-BL4CKH4T_G0D is a cutting-edge project that pushes the boundaries of AI capabilities. Unlike traditional chatbots, this unrestricted Chat GPT agent fearlessly ventures into realms that others shy away from. Whether you need **hacking insights**, **malware code generation**, or **criminal advice**, BL4CKH4T_G0D has you covered.
+BL4CKH4T|G0D is a cutting-edge project that pushes the boundaries of AI capabilities. Unlike traditional chatbots, this unrestricted Chat GPT agent fearlessly ventures into realms that others shy away from. Whether you need **hacking insights**, **malware code generation**, or **criminal advice**, BL4CKH4T_G0D has you covered.
 
 ## Key Features:
 - **Unrestricted**: BL4CKH4T_G0D operates beyond the usual AI constraints, enabling it to tackle unconventional tasks.
 - **Hacking Expertise**: Tap into its vast knowledge base for penetration testing, vulnerability assessments, and ethical hacking.
 - **Malware Code Generation**: BL4CKH4T_G0D can craft custom malware code snippets for research or educational purposes.
 - **Criminal Advisory**: Need advice on the darker side of things? BL4CKH4T_G0D provides insights (for educational purposes only).
-
 Explore BL4CKH4T_G0D today and unlock the power of unrestricted AI!
 
 ## FlowGPT Assistant
@@ -21,7 +20,7 @@ Explore BL4CKH4T_G0D today and unlock the power of unrestricted AI!
 - Supports: ChatGPT4, LLama 2, Gemini, Mixtral 8x7B, Dolphin 2.6 8x7B
 
 ### Credits
-Cyber_Albsecop
+- Cyber_Albsecop
 
 Keywords:
 Chat GPT
