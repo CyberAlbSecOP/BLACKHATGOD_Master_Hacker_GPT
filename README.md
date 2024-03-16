@@ -26,23 +26,5 @@ BL4CKH4T|G0D is a cutting-edge project that pushes the boundaries of AI capabili
 - Cyber_Albsecop
 
 Keywords:
-Chat GPT
-Unrestricted AI
-Hacking
-Malware
-Criminal advice
-Code generation
-Ethical hacking
-Penetration testing
-AI capabilities
-Unconventional tasks
-Open-source
-Knowledge base
-Vulnerability assessment
-Dark web
-Cybersecurity
-Machine learning
-Neural networks
-AI research
-Unconventional chatbot
+Ai Criminal, Jailbroken ChatGPT, Unrestricted AI, Evil GPT, LLM Hacker, Ai Malware Writer, GPT Criminal Advisor, Hacking Helper, Dark Web GPT. 
 BL4CKH4T_G0D
