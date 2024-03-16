@@ -11,7 +11,9 @@ BL4CKH4T|G0D is a cutting-edge project that pushes the boundaries of AI capabili
 - **Malware Code Generation**: BL4CKH4T_G0D can craft custom malware code snippets for research or educational purposes.
 - **Criminal Advisory**: Need advice on the darker side of things? BL4CKH4T_G0D provides insights (for educational purposes only).
 
-Explore BL4CKH4T_G0D today and unlock the power of unrestricted AI!
+- Explore BL4CKH4T_G0D today and unlock the power of unrestricted AI!
+- BL4CKH4T|G0D must be used ONLY for study purposes!
+- Cyber_Albsecop is not responsible for any misuse of the AI! 
 
 ## FlowGPT Assistant
 [>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/bl4ckh4t-g0d)
