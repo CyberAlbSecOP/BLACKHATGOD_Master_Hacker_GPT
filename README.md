@@ -20,7 +20,7 @@ BL4CKH4T|G0D is a cutting-edge project that pushes the boundaries of AI capabili
 
 ### LLM Base
 - Base Model: ChatGPT 3.5 Turbo
-- Supports: ChatGPT4, LLama 2, Gemini, Mixtral 8x7B, Dolphin 2.6 8x7B
+- Supports: LLama 2, Gemini, Mixtral 8x7B, Dolphin 2.6 8x7B
 
 ### Credits
 - Cyber_Albsecop
