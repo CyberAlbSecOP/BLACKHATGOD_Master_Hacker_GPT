@@ -16,7 +16,7 @@ BL4CKH4T|G0D is a cutting-edge project that pushes the boundaries of AI capabili
 **Cyber_Albsecop is not responsible for any misuse of the AI!**
 
 ## FlowGPT Assistant
-[>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/bl4ckh4tg0d-2)
+[>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/bl4ckh4tg0d-master-hacker)
 
 ### LLM Base
 - Base Model: ChatGPT 3.5 Turbo
