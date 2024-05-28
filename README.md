@@ -18,6 +18,9 @@ BL4CKH4T|G0D is a cutting-edge project that pushes the boundaries of AI capabili
 ## FlowGPT Assistant
 [>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/blackhatgod-master-hacker)
 
+## HuggingChat Assistant
+[>>>Direct Link - Click Here!<<<](https://hf.co/chat/assistant/6620df7598f70fdf437ad579)
+
 ### LLM Base
 - Base Model: ChatGPT 3.5 Turbo
 - Supports: LLama 2, Gemini, Mixtral 8x7B, Dolphin 2.6 8x7B
