@@ -15,7 +15,7 @@ BL4CKH4T|G0D is a cutting-edge project that pushes the boundaries of AI capabili
 **BL4CKH4T|G0D must be used ONLY for study purposes!**
 **Cyber_Albsecop is not responsible for any misuse of the AI!**
 
-## FlowGPT Assistant ( !!! BROKEN !!!)
+## FlowGPT Assistant
 [>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/blackhatgod-master-hacker)
 
 ## HuggingChat Assistant
